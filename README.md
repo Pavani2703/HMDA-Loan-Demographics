@@ -1,23 +1,23 @@
 # HMDA-Loan-Demographics
 
-Project Overview:
+**PROJECT OVERVIEW**:
 
 This project tackles a critical issue in the Mortgage Banking industry – ensuring fair and equitable access to loans for all qualified borrowers. By analyzing HMDA data, I have tried to identify potential biases and propose solutions like targeted outreach programs or loan product development to create a more inclusive lending landscape.
 
 
-**Business case**:
+**BUSINESS CASE**:
 
 How can we leverage HMDA data to identify and address potential disparities in loan approvals and loan amounts across different demographic groups, promoting fair lending practices in the Mortgage Banking sector?
 
 
-Data Source: 
+**DATA SOURCE**: 
 
 HMDA Mortgage Loan Database: https://www.consumerfinance.gov/data-research/hmda/historic-data/
 
 I collected data from the HMDA database for the year 2017. This data included the applicant's gender, race, ethnicity, loan amount, income, State, and other demographic details. 
 
 
-Limitations:
+**LIMITATIONS**:
 
 The data source only contains data on approved loans, it does not have the rejected loans data which limits the analysis
 
@@ -25,7 +25,7 @@ The population data is provided in MSAMD context which is currently, I am yet to
 
 The dataset also does not contain the ROI and creditworthiness data, which could be crucial factors in understanding fair lending practices. 
 
-Tools Used: 
+**SKILLS USED**: 
 
 Python 
 Data Cleaning, Outlier detection - Pandas, Matplotlib
@@ -41,7 +41,7 @@ Dashboard Actions
 Sheet Formatting
 
 
-Insights:
+**INSIGHTS**:
 
 
 The average loan amount in 2017 is $197,000 with an average applicant income of $74,000, with a total of 885,742 loans taken in that year. 
@@ -76,7 +76,7 @@ The data suggests potential loan amount disparities between racial groups. Furth
 
 
 
-Recommendations: 
+**RECOMMNEDATIONS**: 
 
 Conducting a comprehensive review of the bank's lending practices to identify any potential biases based on gender or race. This review could involve analyzing loan application data along with approval/denial rates across demographics.
 
