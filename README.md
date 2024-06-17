@@ -5,7 +5,7 @@ Project Overview:
 This project tackles a critical issue in the Mortgage Banking industry – ensuring fair and equitable access to loans for all qualified borrowers. By analyzing HMDA data, I have tried to identify potential biases and propose solutions like targeted outreach programs or loan product development to create a more inclusive lending landscape.
 
 
-Business case:
+**Business case**:
 
 How can we leverage HMDA data to identify and address potential disparities in loan approvals and loan amounts across different demographic groups, promoting fair lending practices in the Mortgage Banking sector?
 
