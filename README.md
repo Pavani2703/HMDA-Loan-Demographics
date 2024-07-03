@@ -1,5 +1,7 @@
 # HMDA-Loan-Demographics
 
+Dashboard: https://public.tableau.com/shared/2454DJJZS?:display_count=n&:origin=viz_share_link
+
 **PROJECT OVERVIEW**:
 
 This project tackles a critical issue in the Mortgage Banking industry – ensuring fair and equitable access to loans for all qualified borrowers. By analyzing HMDA data, I have tried to identify potential biases and propose solutions like targeted outreach programs or loan product development to create a more inclusive lending landscape.
